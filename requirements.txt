@@ -1,3 +1,4 @@
 grapycal>=0.5.5
+grapycal_builtin>=0.5.5
 requests
 mediapipe
